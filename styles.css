@@ -1,0 +1,32 @@
+h1 {
+    color:#000bf2;
+    text-align: center;
+}
+
+th {
+    color:cadetblue;
+}
+
+h2 {
+    color: #000bf2;
+    text-align: center;
+}
+
+p {
+    color:#000d82;
+    text-align: left;
+}
+
+table {
+    font-family: cursive, sans-serif;
+    text-indent: 15%;
+    font-weight: bold;
+}
+
+tr {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
