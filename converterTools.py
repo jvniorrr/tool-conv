@@ -3,6 +3,9 @@ import sys
 
 def short2long(Country: str, output: str):
     """Accepts the country and returns a value, either long or short way
+    
+    Parameters
+    ----------
     - Country: should be a string value, either short or long str of country.
     - Output: should be a string 'S' for short or 'L' for long, which will return the valuein said way. 
     """
@@ -415,9 +418,6 @@ def short2longState(state: str, output: str, country: str):
     return f_Country
 
 
-def state_abbr(state):
-    """Should accept a string input, with the state (only if USA), and it'll return said format.
-    """
 def card_type(card_num: str):
     """
     Takes in a card number and returns card type.
